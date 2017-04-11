@@ -35,4 +35,3 @@ function long(){
     rect(mouseX,mouseY,400,400);
     }
 }
-
